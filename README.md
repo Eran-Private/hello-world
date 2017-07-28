@@ -1,6 +1,8 @@
 # hello-world
 My first repository on Git
 
-I will now add some more lines to this file...
+% ====================================
 
-writing algorithms can be fun
+doing some changes in 'develop' branch
+
+% ====================================
